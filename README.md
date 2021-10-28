@@ -1,6 +1,7 @@
 # AlmaBetter-Capstone-Project-1
 In this repository I have attached the documentation, code notebooks for the capstone project 1 
 The project is about the EDA on Play Store app data. On analysing the data I have come up with the following conclusions,
+![playstore](https://user-images.githubusercontent.com/44922589/139212895-c3c978e5-6def-46a9-ab09-8321e04bc430.jpg)
 
 # **Conclusion:**
 
@@ -17,3 +18,4 @@ The play store app market has diverse variety of apps present in it around 33 of
 9. Paid app market is highly influenced by the user reviews as we have seen 87% correlation between reviews and Installs and 90% correlation between reviews and Estimated revenue.
 
 So, to conclude developers can start building games or apps that families can enjoy to witness more audience. The social media app market is quite highly dominated by giant platforms and it is relatively hard to succeed in that space. Also while building paid apps, developers should reach the expectations and get good user reviews which significantly influence the app's reach and revenue.
+
